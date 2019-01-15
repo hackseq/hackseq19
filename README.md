@@ -1,7 +1,8 @@
 # hackseq19
 
-Organizational files and discussions about hackseq 2018
+Organizational files and discussions about hackseq 2019
 
+For details about last years hackathon, checkout our wiki below.
 
 ## [hackseq18 Organizational Wiki (HOWTO)](https://github.com/hackseq/hackseq18/wiki)
 
