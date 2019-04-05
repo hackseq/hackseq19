@@ -19,4 +19,18 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 
 ## Organizing Committee
 
-Currently recruiting!
+## Organizing Committee
+
+* Emre Erhan (@emreerhan)
+* Kristen Gray (@klgray25)
+* Justin Jia (@imasianxd)
+* Jennifer Lin (@jenjaelin)
+* Sasha Maslova (@smaslova)
+* Noushin Nabavi (@NoushinN)
+* Baraa Orabi (@baraaorabi)
+* Alex Sweeten (@sweetiepi)
+* Aris Grout (@arisgrout)
+* Ben Cardoen (@bencardoen)
+* David Guo (@itsDagu)
+* Kate Gibson (@kfgibson)
+* Ogan Mancarcı (@oganm)
