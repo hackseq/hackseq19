@@ -34,3 +34,4 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 * David Guo (@itsDagu)
 * Kate Gibson (@kfgibson)
 * Ogan Mancarcı (@oganm)
+* Reva Shenwai (@scatcher125)
