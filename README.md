@@ -35,18 +35,22 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 * Reva Shenwai (@scatcher125)
 
 ## hackseq19 Projects
-1. BeRi Environments for R Installations (https://github.com/hackseq/hs19-beri)
-2. Yeast-omics (https://github.com/hackseq/hs19-yeast)
-3. Rule-based Learning for Transcriptional Regulation (https://github.com/hackseq/hs19-rule)
-4. BugSeq (https://github.com/schorlton/bugseq-web)
-5. Mapping Polypharmacy Chemical Reactions in At-Risk Populations (https://github.com/hackseq/hs19-game)
-6. TALR: Targeted Assembly of Linked Reads (https://github.com/hackseq/hs19-talr)
-7. Visualizing Very Large Biological Networks
-8. Trends in Bioinformatics with RLadies
-9. A TraIN (Translating from Immunology to Neuroscience) for cell-to-cell communication molecules, & an R pipeline for TraIN!
-10. Hypothesis-Bio Automated Bioinformatics Bug Discovery
-11. Development of an interpretable deep learning framework to detect epistatic interactions between SNPs
-12. BiocSwirl()Terminal based Bioconductor Courses
-13. Predicting Short-Term Success of Influenza Virus Variants
-14. Mapping Polypharmacy Chemical Reactions in At-Risk Populations
-15. Virtual and Augmented Reality for Single-Cell Data Exploration
+
+| Project # | Project name                                                 | Repo                                      |
+| --------- | ------------------------------------------------------------ | ----------------------------------------- |
+| 1         | BeRi Environments for R Installations                        | https://github.com/hackseq/hs19-beri      |
+| 2         | Yeast-omics                                                  | https://github.com/hackseq/hs19-yeast     |
+| 3         | Rule-based Learning for Transcriptional Regulation           | https://github.com/hackseq/hs19-rule      |
+| 4         | BugSeq                                                       | https://github.com/schorlton/bugseq-web   |
+| 5         | Mapping Polypharmacy Chemical Reactions in At-Risk Populations | https://github.com/hackseq/hs19-game      |
+| 6         | TALR: Targeted Assembly of Linked Reads                      | https://github.com/hackseq/hs19-talr      |
+| 7         | Visualizing Very Large Biological Networks                   | https://github.com/hackseq/hs19-biovis    |
+| 8         | Trends in Bioinformatics with RLadies                        | https://github.com/hackseq/hs19-trends    |
+| 9         | TraIN (Translating from Immunology to Neuroscience)          | https://github.com/hackseq/hs19-train     |
+| 10        | Hypothesis-Bio Automated Bioinformatics Bug Discovery        | https://github.com/Lab41/hypothesis-bio   |
+| 11        | Development of an interpretable deep learning framework to detect epistatic interactions between SNPs | https://github.com/hackseq/hs19-deep      |
+| 12        | BiocSwirl()Terminal based Bioconductor Courses               | https://github.com/hackseq/hs19-biocswirl |
+| 13        | Predicting Short-Term Success of Influenza Virus Variants    | https://github.com/hackseq/hs19-flu       |
+| 14        | Mapping Polypharmacy Chemical Reactions in At-Risk Populations | https://github.com/hackseq/hs19-pop       |
+| 15        | Virtual and Augmented Reality for Single-Cell Data Exploration | https://github.com/hackseq/hs19-var       |
+
