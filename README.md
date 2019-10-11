@@ -36,21 +36,20 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 
 ## hackseq19 Projects
 
-| #         | Project name                                                 | Repo                                      |
-| --------- | ------------------------------------------------------------ | ----------------------------------------- |
-| 1         | BeRi Environments for R Installations                        | https://github.com/hackseq/hs19-beri      |
-| 2         | Yeast-omics                                                  | https://github.com/hackseq/hs19-yeast     |
-| 3         | Rule-based Learning for Transcriptional Regulation           | https://github.com/hackseq/hs19-rule      |
-| 4         | BugSeq                                                       | https://github.com/schorlton/bugseq-web   |
-| 5         | Mapping Polypharmacy Chemical Reactions in At-Risk Populations | https://github.com/hackseq/hs19-game      |
-| 6         | TALR: Targeted Assembly of Linked Reads                      | https://github.com/hackseq/hs19-talr      |
-| 7         | Visualizing Very Large Biological Networks                   | https://github.com/hackseq/hs19-biovis    |
-| 8         | Trends in Bioinformatics with RLadies                        | https://github.com/hackseq/hs19-trends    |
-| 9         | TraIN (Translating from Immunology to Neuroscience)          | https://github.com/hackseq/hs19-train     |
-| 10        | Hypothesis-Bio Automated Bioinformatics Bug Discovery        | https://github.com/Lab41/hypothesis-bio   |
-| 11        | Development of an interpretable deep learning framework to detect epistatic interactions between SNPs | https://github.com/hackseq/hs19-deep      |
-| 12        | BiocSwirl()Terminal based Bioconductor Courses               | https://github.com/hackseq/hs19-biocswirl |
-| 13        | Predicting Short-Term Success of Influenza Virus Variants    | https://github.com/hackseq/hs19-flu       |
-| 14        | Mapping Polypharmacy Chemical Reactions in At-Risk Populations | https://github.com/hackseq/hs19-pop       |
-| 15        | Virtual and Augmented Reality for Single-Cell Data Exploration | https://github.com/hackseq/hs19-var       |
-
+| #    | Project name                                                 | Team lead       | Co-lead            | Repo                                      |
+| ---- | ------------------------------------------------------------ | --------------- | ------------------ | ----------------------------------------- |
+| 1    | BeRi Environments for R Installations                        | Rob Gilmore     |                    | https://github.com/hackseq/hs19-beri      |
+| 2    | Yeast-omics                                                  | Noushin Nabavi  | Matt Emery         | https://github.com/hackseq/hs19-yeast     |
+| 3    | Rule-based Learning for Transcriptional Regulation           | Alex Sweeten    |                    | https://github.com/hackseq/hs19-rule      |
+| 4    | BugSeq                                                       | Sam Chorlton    |                    | https://github.com/schorlton/bugseq-web   |
+| 5    | Mapping Polypharmacy Chemical Reactions in At-Risk Populations | Artem Babaian   | German Novakovsky  | https://github.com/hackseq/hs19-game      |
+| 6    | TALR: Targeted Assembly of Linked Reads                      | Shaun Jackman   |                    | https://github.com/hackseq/hs19-talr      |
+| 7    | Visualizing Very Large Biological Networks                   | Anamaria Crisan |                    | https://github.com/hackseq/hs19-biovis    |
+| 8    | Trends in Bioinformatics with RLadies                        | Jasmine Lai     | Raissa Philibert   | https://github.com/hackseq/hs19-trends    |
+| 9    | TraIN (Translating from Immunology to Neuroscience)          | Lucia Guerri    |                    | https://github.com/hackseq/hs19-train     |
+| 10   | Hypothesis-Bio Automated Bioinformatics Bug Discovery        | Benjamin Lee    |                    | https://github.com/Lab41/hypothesis-bio   |
+| 11   | Development of an interpretable deep learning framework to detect epistatic interactions between SNPs | Sean La         | Habib Daneshpajouh | https://github.com/hackseq/hs19-deep      |
+| 12   | BiocSwirl()Terminal based Bioconductor Courses               | Lisa N. Cao     | Mariam Arab        | https://github.com/hackseq/hs19-biocswirl |
+| 13   | Predicting Short-Term Success of Influenza Virus Variants    | Caroline Colijn | Priscila Biller    | https://github.com/hackseq/hs19-flu       |
+| 14   | Mapping Polypharmacy Chemical Reactions in At-Risk Populations | Veena Ghorakavi |                    | https://github.com/hackseq/hs19-pop       |
+| 15   | Virtual and Augmented Reality for Single-Cell Data Exploration | Michael Vinyard | Luca Pinello       | https://github.com/hackseq/hs19-var       |
