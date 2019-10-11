@@ -36,7 +36,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 
 ## hackseq19 Projects
 
-| Project # | Project name                                                 | Repo                                      |
+| #         | Project name                                                 | Repo                                      |
 | --------- | ------------------------------------------------------------ | ----------------------------------------- |
 | 1         | BeRi Environments for R Installations                        | https://github.com/hackseq/hs19-beri      |
 | 2         | Yeast-omics                                                  | https://github.com/hackseq/hs19-yeast     |
