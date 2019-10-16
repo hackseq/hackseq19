@@ -22,7 +22,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 * Emre Erhan (@emreerhan)
 * Kristen Gray (@klgray25)
 * Justin Jia (@imasianxd)
-* Jennifer Lin (@jenjaelin) | (519) 498-1555
+* Jennifer Lin (@jenjaelin)
 * Sasha Maslova (@smaslova)
 * Noushin Nabavi (@NoushinN)
 * Baraa Orabi (@baraaorabi)
