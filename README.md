@@ -28,7 +28,6 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 * Baraa Orabi (@baraaorabi)
 * Alex Sweeten (@sweetiepi)
 * Aris Grout (@arisgrout)
-* Ben Cardoen (@bencardoen)
 * David Guo (@itsDagu)
 * Kate Gibson (@kfgibson)
 * Ogan Mancarcı (@oganm)
