@@ -50,6 +50,6 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 | 10   | Hypothesis-Bio Automated Bioinformatics Bug Discovery        | Benjamin Lee    |                    | https://github.com/Lab41/hypothesis-bio   |
 | 11   | Development of an interpretable deep learning framework to detect epistatic interactions between SNPs | Sean La         | Habib Daneshpajouh | https://github.com/hackseq/hs19-deep      |
 | 12   | BiocSwirl()Terminal based Bioconductor Courses               | Lisa N. Cao     | Mariam Arab        | https://github.com/hackseq/hs19-biocswirl |
-| 13   | Predicting Short-Term Success of Influenza Virus Variants    | Caroline Colijn | Priscila Biller    | https://github.com/hackseq/hs19-flu       |
+| 13   | Predicting Short-Term Success of Influenza Virus Variants    | Caroline Colijn | Priscila Biller & Maryam Hayati    | https://github.com/hackseq/hs19-flu       |
 | 14   | Mapping Polypharmacy Chemical Reactions in At-Risk Populations | Veena Ghorakavi |                    | https://github.com/hackseq/hs19-pop       |
 | 15   | Virtual and Augmented Reality for Single-Cell Data Exploration | Michael Vinyard | Luca Pinello       | https://github.com/hackseq/hs19-var       |
