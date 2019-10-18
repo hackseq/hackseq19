@@ -37,7 +37,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 
 | #    | Project name                                                 | Team lead       | Co-lead            | Repo                                      |
 | ---- | ------------------------------------------------------------ | --------------- | ------------------ | ----------------------------------------- |
-| 1    | BeRi Environments for R Installations                        | Rob Gilmore     |                    | https://github.com/hackseq/hs19-beri      |
+| 1    | BeRi Environments for R Installations                        | Rob Gilmore     |                    | https://github.com/datasnakes/beRi      |
 | 2    | Yeast-omics                                                  | Noushin Nabavi  | Matt Emery         | https://github.com/hackseq/hs19-yeast     |
 | 3    | Rule-based Learning for Transcriptional Regulation           | Alex Sweeten    |                    | https://github.com/SweetiePi/rule-based-learning     |
 | 4    | BugSeq                                                       | Sam Chorlton    |                    | https://github.com/schorlton/bugseq-web   |
