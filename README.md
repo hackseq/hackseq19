@@ -42,7 +42,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 | 3    | Rule-based Learning for Transcriptional Regulation           | Alex Sweeten    |                    | https://github.com/SweetiePi/rule-based-learning     |
 | 4    | BugSeq                                                       | Sam Chorlton    |                    | https://github.com/schorlton/bugseq-web   |
 | 5    | Mapping Polypharmacy Chemical Reactions in At-Risk Populations | Artem Babaian   | German Novakovsky  | https://github.com/hackseq/hs19-game      |
-| 6    | TALR: Targeted Assembly of Linked Reads                      | Shaun Jackman   |                    | https://github.com/hackseq/hs19-talr      |
+| 6    | TALR: Targeted Assembly of Linked Reads                      | Shaun Jackman   |                    | https://github.com/sjackman/talr          |
 | 7    | Visualizing Very Large Biological Networks                   | Anamaria Crisan |                    | https://github.com/hackseq/hs19-biovis    |
 | 8    | Trends in Bioinformatics with RLadies                        | Jasmine Lai     | Raissa Philibert   | https://github.com/hackseq/hs19-trends    |
 | 9    | TraIN (Translating from Immunology to Neuroscience)          | Lucia Guerri    |                    | https://github.com/hackseq/hs19-train     |
