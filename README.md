@@ -41,7 +41,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 | 2    | Yeast-omics                                                  | Noushin Nabavi  | Matt Emery         | https://github.com/lstmemery/yeast-transcriptomics     |
 | 3    | Rule-based Learning for Transcriptional Regulation           | Alex Sweeten    |                    | https://github.com/SweetiePi/rule-based-learning     |
 | 4    | BugSeq                                                       | Sam Chorlton    |                    | https://github.com/schorlton/bugseq-pipeline   |
-| 5    | Mapping Polypharmacy Chemical Reactions in At-Risk Populations | Artem Babaian   | German Novakovsky  | https://github.com/hackseq/hs19-game      |
+| 5    | Game of Evolution (REvolution) | Artem Babaian   | German Novakovsky  | https://github.com/fransilvion/REvolution |
 | 6    | TALR: Targeted Assembly of Linked Reads                      | Shaun Jackman   |                    | https://github.com/sjackman/talr          |
 | 7    | Visualizing Very Large Biological Networks                   | Anamaria Crisan |                    | https://github.com/hackseq/hs19-biovis    |
 | 8    | Trends in Bioinformatics with RLadies                        | Jasmine Lai     | Raissa Philibert   | https://github.com/hackseq/hs19-trends    |
@@ -62,7 +62,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 | 3    | Kate Gibson              | https://github.com/schorlton/bugseq-pipeline       |
 | 4    | Heather Van Tassel       | https://github.com/sjackman/talr                   |
 | 5    | Abhijit                  | https://github.com/hackseq/hs19-var                |
-| 6    | Alice Zhu                | https://github.com/hackseq/hs19-game               |
+| 6    | Alice Zhu                | https://github.com/fransilvion/REvolution          |
 | 7    | Javier Castillo-Arnemann | https://github.com/hackseq/hs19-train              |
 | 8    | Jasmine Lai              | https://github.com/lisancao/biocswirl              |
 | 9    | Lucia                    | https://github.com/Lab41/hypothesis-bio            |
