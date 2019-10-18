@@ -40,7 +40,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 | 1    | BeRi Environments for R Installations                        | Rob Gilmore     |                    | https://github.com/datasnakes/beRi      |
 | 2    | Yeast-omics                                                  | Noushin Nabavi  | Matt Emery         | https://github.com/lstmemery/yeast-transcriptomics     |
 | 3    | Rule-based Learning for Transcriptional Regulation           | Alex Sweeten    |                    | https://github.com/SweetiePi/rule-based-learning     |
-| 4    | BugSeq                                                       | Sam Chorlton    |                    | https://github.com/schorlton/bugseq-web   |
+| 4    | BugSeq                                                       | Sam Chorlton    |                    | https://github.com/schorlton/bugseq-pipeline   |
 | 5    | Mapping Polypharmacy Chemical Reactions in At-Risk Populations | Artem Babaian   | German Novakovsky  | https://github.com/hackseq/hs19-game      |
 | 6    | TALR: Targeted Assembly of Linked Reads                      | Shaun Jackman   |                    | https://github.com/sjackman/talr          |
 | 7    | Visualizing Very Large Biological Networks                   | Anamaria Crisan |                    | https://github.com/hackseq/hs19-biovis    |
