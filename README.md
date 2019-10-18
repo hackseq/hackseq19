@@ -52,3 +52,25 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 | 13   | Predicting Short-Term Success of Influenza Virus Variants    | Caroline Colijn | Priscila Biller & Maryam Hayati    | https://github.com/hackseq/hs19-flu       |
 | 14   | Mapping Polypharmacy Chemical Reactions in At-Risk Populations | Veena Ghorakavi |                    | https://github.com/hackseq/hs19-pop       |
 | 15   | Virtual and Augmented Reality for Single-Cell Data Exploration | Michael Vinyard | Luca Pinello       | https://github.com/hackseq/hs19-var       |
+
+
+## README Reviews
+| #    | Nominated reviewer       | Assigned project to review                         |
+| ---- | ------------------------ | -------------------------------------------------- |
+| 1    | Cedric Wang              | https://github.com/hackseq/hs19-flu                |
+| 2    | Sedat Demiriz            | https://github.com/hackseq/hs19-pop                |
+| 3    | Kate Gibson              | https://github.com/schorlton/bugseq-pipeline       |
+| 4    | Heather Van Tassel       | https://github.com/sjackman/talr                   |
+| 5    | Abhijit                  | https://github.com/hackseq/hs19-var                |
+| 6    | Alice Zhu                | https://github.com/hackseq/hs19-game               |
+| 7    | Javier Castillo-Arnemann | https://github.com/hackseq/hs19-train              |
+| 8    | Jasmine Lai              | https://github.com/lisancao/biocswirl              |
+| 9    | Lucia                    | https://github.com/Lab41/hypothesis-bio            |
+| 10   | ???                      | https://github.com/hackseq/hs19-biovis             |
+| 11   | Sean La                  | https://github.com/hackseq/hs19-trends             |
+| 12   | Kate Tyshchenko          | https://github.com/datasnakes/beRi                 |
+| 13   | Frank Hui                | https://github.com/hackseq/hs19-deep               |
+| 14   | Maggie Fu                | https://github.com/lstmemery/yeast-transcriptomics |
+| 15   | Michael Vinyard          | https://github.com/SweetiePi/rule-based-learning   |
+
+
