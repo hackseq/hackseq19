@@ -66,7 +66,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 | 7    | Javier Castillo-Arnemann | https://github.com/NCBI-Hackathons/TraIN-Translating-cell-to-cell-communication-from-Immunology-to-Neuroscience-on-RNAseq-data              |
 | 8    | Jasmine Lai              | https://github.com/lisancao/biocswirl              |
 | 9    | Lucia                    | https://github.com/Lab41/hypothesis-bio            |
-| 10   | ???                      | https://github.com/hackseq/hs19-biovis             |
+| 10   | Benjamin Lee             | https://github.com/hackseq/hs19-biovis             |
 | 11   | Sean La                  | https://github.com/hackseq/hs19-trends             |
 | 12   | Kate Tyshchenko          | https://github.com/datasnakes/beRi                 |
 | 13   | Frank Hui                | https://github.com/hackseq/hs19-deep               |
