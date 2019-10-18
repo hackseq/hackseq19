@@ -45,7 +45,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 | 6    | TALR: Targeted Assembly of Linked Reads                      | Shaun Jackman   |                    | https://github.com/sjackman/talr          |
 | 7    | Visualizing Very Large Biological Networks                   | Anamaria Crisan |                    | https://github.com/hackseq/hs19-biovis    |
 | 8    | Trends in Bioinformatics with RLadies                        | Jasmine Lai     | Raissa Philibert   | https://github.com/hackseq/hs19-trends    |
-| 9    | TraIN (Translating from Immunology to Neuroscience)          | Lucia Guerri    |                    | https://github.com/hackseq/hs19-train     |
+| 9    | TraIN (Translating from Immunology to Neuroscience)          | Lucia Guerri    |                    | https://github.com/NCBI-Hackathons/TraIN-Translating-cell-to-cell-communication-from-Immunology-to-Neuroscience-on-RNAseq-data     |
 | 10   | Hypothesis-Bio Automated Bioinformatics Bug Discovery        | Benjamin Lee    |                    | https://github.com/Lab41/hypothesis-bio   |
 | 11   | Development of an interpretable deep learning framework to detect epistatic interactions between SNPs | Sean La         | Habib Daneshpajouh | https://github.com/hackseq/hs19-deep      |
 | 12   | BiocSwirl()Terminal based Bioconductor Courses               | Lisa N. Cao     | Mariam Arab        | https://github.com/lisancao/biocswirl |
@@ -63,7 +63,7 @@ This event will be modeled on the [NCBI hackathon](https://github.com/NCBI-Hacka
 | 4    | Heather Van Tassel       | https://github.com/sjackman/talr                   |
 | 5    | Abhijit                  | https://github.com/hackseq/hs19-var                |
 | 6    | Alice Zhu                | https://github.com/fransilvion/REvolution          |
-| 7    | Javier Castillo-Arnemann | https://github.com/hackseq/hs19-train              |
+| 7    | Javier Castillo-Arnemann | https://github.com/NCBI-Hackathons/TraIN-Translating-cell-to-cell-communication-from-Immunology-to-Neuroscience-on-RNAseq-data              |
 | 8    | Jasmine Lai              | https://github.com/lisancao/biocswirl              |
 | 9    | Lucia                    | https://github.com/Lab41/hypothesis-bio            |
 | 10   | ???                      | https://github.com/hackseq/hs19-biovis             |
